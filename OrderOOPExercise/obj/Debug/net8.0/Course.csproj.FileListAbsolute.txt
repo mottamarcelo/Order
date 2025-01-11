@@ -1,0 +1,14 @@
+C:\Users\motta\source\repos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\Course.exe
+C:\Users\motta\source\repos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\Course.deps.json
+C:\Users\motta\source\repos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\Course.runtimeconfig.json
+C:\Users\motta\source\repos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\Course.dll
+C:\Users\motta\source\repos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\Course.pdb
+C:\Users\motta\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\motta\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\Course.AssemblyInfoInputs.cache
+C:\Users\motta\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\Course.AssemblyInfo.cs
+C:\Users\motta\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\Course.csproj.CoreCompileInputs.cache
+C:\Users\motta\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\Course.dll
+C:\Users\motta\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\refint\Course.dll
+C:\Users\motta\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\Course.pdb
+C:\Users\motta\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\Course.genruntimeconfig.cache
+C:\Users\motta\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\ref\Course.dll
